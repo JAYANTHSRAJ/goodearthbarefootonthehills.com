@@ -1,0 +1,7 @@
+goodearth_website.zip
+*.zip
+*.png
+.tempmediaStorage/
+*.log
+**/task-*
+/scratch/
