@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #mapDiv {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mapDiv"></div>
+      
+    <script nonce="x2NRFzozNdpSskOb2kEvRA">
+      function onEmbedLoad() {
+        initEmbed([null,null,null,null,null,[[[2,"spotlit",null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,11,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,1]]]],null,null,[[null,null,null,null,null,null,null,null,null,null,null,null,null,[[["4298225216931485075","10440364493822627901"],"/g/11hzpcqtqs",null,[112808804,758615031],null,null,null,null,null,null,null,null,null,null,"gcid:villa"],0,0,null,null,0,null,0]]]],null,["en","in"],[null,null,null,"/maps/api/js/ApplicationService.GetEntityDetails","/maps/embed/upgrade204",null,"/maps/embed/record204"],null,null,null,null,null,null,null,null,"E3M7ap_qBYKZ4-EPuuTryQI",null,null,null,[[[3912.718919103989,75.86150310000001,11.2808804],[0,0,0],null,13.10000038146973],null,0,[["0x3ba65d0fd3d3d593:0x90e3a03113e6103d","Good Earth-Barefoot on the Hills, Nadappalam Rd, Kozhikode, Kerala 673008",[11.2808804,75.86150309999999],"10440364493822627901"],"Good Earth-Barefoot on the Hills",["Nadappalam Rd","Kozhikode, Kerala 673008"],4.5,"44 reviews","https://search.google.com/local/reviews?placeid=ChIJk9XT0w9dpjsRPRDmEzGg45A\u0026q=Good+Earth-Barefoot+on+the+Hills\u0026hl=en\u0026gl=IN",null,"094964 10000",null,null,null,["https://goodearth.org.in/calicut/","goodearth.org.in",null,null,",AOvVaw0whZoNKso_izNSbWfNrWuV,,0ahUKEwjfv5iFmp-VAxWCzDgGHTryOikQ61gIEygO,"],"Villa","Nadappalam Rd, Kozhikode, Kerala 673008",null,null,null,null,null,null,null,null,null,null,null,null,null,"ChIJk9XT0w9dpjsRPRDmEzGg45A",null,null,"0ahUKEwjfv5iFmp-VAxWCzDgGHTryOikQ8BcIAigA",null,null,["tel:09496410000"],null,null,null,1,["0ahUKEwjfv5iFmp-VAxWCzDgGHTryOikQqtMBCAsoCA",["7J3Q7VJ6+9J"],["7VJ6+9J Kozhikode, Kerala"],2],[[["Wednesday",3,[2026,6,24],[["9 am–5 pm",[[9],[17]]]],0,1],["Thursday",4,[2026,6,25],[["9 am–5 pm",[[9],[17]]]],0,1,["Ashura might affect these hours","Ashura",2]],["Friday",5,[2026,6,26],[["9 am–5 pm",[[9],[17]]]],0,1,["Ashura might affect these hours","Ashura",2]],["Saturday",6,[2026,6,27],[["9 am–5 pm",[[9],[17]]]],0,1],["Sunday",7,[2026,6,28],[["Closed"]],0,2],["Monday",1,[2026,6,29],[["9 am–5 pm",[[9],[17]]]],0,1],["Tuesday",2,[2026,6,30],[["9 am–5 pm",[[9],[17]]]],0,1]],[["Wednesday",3,[2026,6,24],[["9 am–5 pm",[[9],[17]]]],0,1],0,1,null,["Open · Closes 5 pm",[[0,4,[null,[4279862841,4285388172]]]]],["Open · Closes 5 pm",[[0,4,[null,[4279862841,4285388172]]]]],null,[16],["Open",[[0,4,[null,[4279862841,4285388172]]]]]],3,null,null,null,1]]],null,null,null,0,null,null,null,null,null,null,[1]]);
+      }
+      function onApiLoad() {
+        var embed = document.createElement('script');
+        embed.src = "https://maps.gstatic.com/maps-api-v3/embed/js/65/5e/init_embed.js";
+        document.body.appendChild(embed);
+      }
+    </script>
+    <link rel="preload" href="https://maps.gstatic.com/maps-api-v3/embed/js/65/5e/init_embed.js" nonce="x2NRFzozNdpSskOb2kEvRA" as="script" />
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&amp;paint_origin=&amp;libraries=geometry,search&amp;v=weekly&amp;loading=async&amp;language=en&amp;region=in&amp;experimentation=allowed&amp;callback=onApiLoad" nonce="x2NRFzozNdpSskOb2kEvRA" async defer></script>
+  </body>
+</html>

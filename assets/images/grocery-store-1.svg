@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xodm="http://www.corel.com/coreldraw/odm/2003" xml:space="preserve" width="140.713mm" height="122.959mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 10135 8856">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#794721;stroke-width:14;stroke-miterlimit:22.9256}
+    .str0 {stroke:#794721;stroke-width:388;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+    .fil1 {fill:#794721}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"></metadata>
+  <g id="_1481948022000">
+   <line class="fil0 str0" x1="4284" y1="4235" x2="9411" y2="4235"></line>
+   <line class="fil0 str0" x1="4284" y1="5287" x2="9051" y2="5287"></line>
+   <path class="fil0 str0" d="M9699 3183l-844 3086c-7,23 -14,46 -22,68l-5578 0 -449 -3154 6892 0z"></path>
+   <path class="fil0 str0" d="M9699 2170l-7037 0 144 1013 6892 0c133,0 242,-109 242,-242l0 -528c0,-133 -109,-242 -242,-242z"></path>
+   <path class="fil0 str0" d="M4169 6900c487,0 881,394 881,881 0,487 -394,881 -881,881 -487,0 -881,-394 -881,-881 0,-487 394,-881 881,-881z"></path>
+   <path class="fil0 str0" d="M7436 6900c487,0 881,394 881,881 0,487 -395,881 -881,881 -487,0 -881,-394 -881,-881 0,-487 394,-881 881,-881z"></path>
+   <path class="fil0 str0" d="M4942 7358l1721 0m1546 0l839 0c645,0 659,-1021 0,-1021l-5792 0 -696 -4891c-89,-428 -217,-514 -507,-514l-1404 0c-606,15 -606,1061 0,1021l927 0 663 5004c36,269 210,401 471,401l688 0"></path>
+   <path class="fil1 str1" d="M4169 7512c149,0 269,121 269,269 0,149 -120,269 -269,269 -149,0 -269,-121 -269,-269 0,-149 121,-269 269,-269z"></path>
+   <path class="fil1 str1" d="M7436 7512c149,0 269,121 269,269 0,149 -121,269 -269,269 -149,0 -269,-121 -269,-269 0,-149 121,-269 269,-269z"></path>
+   <polygon class="fil0 str0" points="3511,2170 6009,2170 6009,775 3511,775 "></polygon>
+   <polygon class="fil0 str0" points="6009,2170 9071,2170 9071,194 6009,194 "></polygon>
+  </g>
+ </g>
+</svg>
